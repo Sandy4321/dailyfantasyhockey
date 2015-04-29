@@ -7,4 +7,3 @@ Purpose : These scripts have 2 purposes. Firstly, they demonstrate an understand
 
 Common Problems : The players' teams are matched against a master list which is hard coded in a text file. Some times, the author of the website uses acronyms for the teams, which don't match the master list. The acronyms are currently fixed in the master list, but if the website author edits his list again, it will throw an error and the master list will need to be updated.
 
-Future updates TODO : Employ some more sophisticated algorithms for selecting players. The generalized formula used now works semi-well but needs improvement. 
